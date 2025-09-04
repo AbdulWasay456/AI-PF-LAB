@@ -9,12 +9,11 @@ Unordered list
 - List 1
 - List 2 
 - List 3
-- List 4
-<br/>
+- <br/>
 Ordered List
 <br/>
-1.  List 1
-2.  List 2
-3. List 3
+ 1.  List 1
+ 2.  List 2
+ 3. List 3
 <br/>
 Learning about Git hub
