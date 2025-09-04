@@ -11,4 +11,9 @@ Unordered list
 - List 3
 - List 4
 <br/>
+Ordered List
+<br/>
+1. List 1
+2. List 2
+3. List 3
 Learning about Git hub
