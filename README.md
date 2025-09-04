@@ -6,9 +6,9 @@
 _This is for Italic_
 <br/>
 Unordered list
--List 1
--List 2 
--List 3
--List 4
+- List 1
+- List 2 
+- List 3
+- List 4
 <br/>
 Learning about Git hub
